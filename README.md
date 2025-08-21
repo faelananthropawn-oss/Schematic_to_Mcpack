@@ -1,7 +1,7 @@
 # Schematic_to_Mcpack
 An all in one tool for turning virtually any schematic file into one of my .mcpacks. 
 
-There are two options for output and usage (if you download the project only one from the website).
+There are two output methods available from the downloaded project, but only one from the website version.
 
 Usage - https://originals-schematic-to-mcpac.onrender.com
 
