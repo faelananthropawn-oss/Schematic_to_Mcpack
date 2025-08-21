@@ -1,5 +1,5 @@
 # Schematic_to_Mcpack
-An all in one tool for turning virtually any schematic file into one of my .mcpack files. 
+An all in one tool for turning virtually any schematic file into one of my .mcpacks. 
 
 There are two options for output and usage (if you download the project only one from the website).
 
