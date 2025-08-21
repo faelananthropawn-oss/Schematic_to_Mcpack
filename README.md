@@ -3,7 +3,7 @@ An all in one tool for turning virtually any schematic file into one of my .mcpa
 
 There are two options for output and usage (if you download the project only one from the website).
 
-Usage
+Usage - https://originals-schematic-to-mcpac.onrender.com
 
 99% of schematics should be perfectly fine to run through the website version where you can simply upload the schematic and assign a name.  Everything else is handled automatically.  The given name will be the name of the output file and the pack when inside of minecraft so you should make it memmorable.
 
