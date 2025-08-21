@@ -9,9 +9,11 @@ Usage - https://originals-schematic-to-mcpac.onrender.com
 
 If you download the project to run on your own you get an extra option.  You will need to install node and activate the files from command line everything else should be included in the download.  To set it up simply put all the downloaded files from the zip into a singular folder.  Then inside of the same folder add your schematic or .schem file.  Now just open command line (make sure your executing in the file path where you put the download at) and run 
 
-node commands.mjs schemname "Pack Name"   for option 1 (see below)
+Option 1 -
+node commands.mjs schemname "Pack Name"
 
-node commands.mjs schemname   for option 2 (see below)
+Option 2 -
+node commands.mjs schemname
 
 replace schemname with your schematic files exact name - Ex portal.schem
 
