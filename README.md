@@ -17,7 +17,7 @@ node commands.mjs schemname
 
 replace schemname with your schematic files exact name - Ex portal.schem
 
-"Pack Name" Requires the qoutes and will act as the pack name
+"Pack Name" Requires the qoutes and will act as the pack/file name as it does on the website
 
 Option 1 - Mcpack
 
