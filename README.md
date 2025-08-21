@@ -9,13 +9,13 @@ Usage
 
 If you download the project to run on your own you get an extra option.  You will need to install node and activate the files from command line everything else should be included in the download.  To set it up simply put all the downloaded files from the zip into a singular folder.  Then inside of the same folder add your schematic or .schem file.  Now just open command line (make sure your executing in the file path where you put the download at) and run 
 
-replace schemname with your schematic files exact name - Ex portal.schem
-
-"Pack Name" Requires the qoutes and will act as the pack name
-
 node commands.mjs schemname "Pack Name"   for option 1 (see below)
 
 node commands.mjs schemname   for option 2 (see below)
+
+replace schemname with your schematic files exact name - Ex portal.schem
+
+"Pack Name" Requires the qoutes and will act as the pack name
 
 Option 1 - Mcpack
 
