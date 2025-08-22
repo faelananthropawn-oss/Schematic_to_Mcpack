@@ -1,4 +1,5 @@
 # Schematic_to_Mcpack
+(Should currently support all builds 1.21 or earlier)
 An all in one tool for turning virtually any schematic file into one of my .mcpacks. 
 
 There are two output methods available from the downloaded project, but only one from the website version.
